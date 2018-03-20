@@ -17,7 +17,16 @@ public struct Article {
 
     public let title: String
 
-
-    
 }
 
+
+public struct PageInfo {
+    
+    public let hasNextPage: Bool
+    
+    public let endCursor: String?
+    
+    public let hasPreviousPage: Bool
+    
+    public let startCursor: String?
+}

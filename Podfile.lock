@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.7.0)
+  - Gryphon (3.1.0)
+  - SwiftyJSON (4.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Gryphon (~> 3.1)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 907e0a98eb68cdb7f9d1f541a563d6ac5dc77b25
+  Gryphon: 4be80ea5cd7f00421915ddce4e5c0e662ab5d5ff
+  SwiftyJSON: 070dabdcb1beb81b247c65ffa3a79dbbfb3b48aa
+
+PODFILE CHECKSUM: 20ae568bcfdfd29eea47b1bba667bdc06452e631
+
+COCOAPODS: 1.4.0
